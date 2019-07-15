@@ -1,0 +1,11 @@
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/bin/Debug/netcoreapp2.1/Decision_Making.deps.json
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/bin/Debug/netcoreapp2.1/Decision_Making.runtimeconfig.json
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/bin/Debug/netcoreapp2.1/Decision_Making.runtimeconfig.dev.json
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/bin/Debug/netcoreapp2.1/Decision_Making.dll
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/bin/Debug/netcoreapp2.1/Decision_Making.pdb
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/obj/Debug/netcoreapp2.1/Decision_Making.csprojAssemblyReference.cache
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/obj/Debug/netcoreapp2.1/Decision_Making.csproj.CoreCompileInputs.cache
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/obj/Debug/netcoreapp2.1/Decision_Making.AssemblyInfoInputs.cache
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/obj/Debug/netcoreapp2.1/Decision_Making.AssemblyInfo.cs
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/obj/Debug/netcoreapp2.1/Decision_Making.dll
+/Users/savanahisabella/Projects/Decision_Making/Decision_Making/obj/Debug/netcoreapp2.1/Decision_Making.pdb
