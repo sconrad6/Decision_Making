@@ -9,7 +9,7 @@ namespace Decision_Making
             Console.WriteLine("Hello! What is your name?");
             string name = Console.ReadLine();
 
-            char userChoice;
+            char userChoice = 'y';
             do
             {
                 Console.WriteLine("\n" + name + ", Please enter a whole number between 1 and 100");
@@ -18,8 +18,8 @@ namespace Decision_Making
 
                 if (!DecisionMaking.IsValid(number))
                 {
-                    Console.WriteLine("Invalid number");
-                    return;
+                    Console.WriteLine("Invalid number. Please try again.");
+                    continue;
                 }
               
                 Console.WriteLine("\nGreat number, " + name + "!");
