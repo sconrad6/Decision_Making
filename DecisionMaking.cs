@@ -28,13 +28,9 @@ namespace Decision_Making
             }
             else if (userNumber % 2 == 0 && userNumber >= 2 && userNumber <= 25)
             {
-                return userNumber + " is even and less than 25.";
+                return userNumber + " is even and less than or equal to 25.";
             }
-            else if (userNumber % 2 == 0 && userNumber >= 26 && userNumber <= 60)
-            {
-                return userNumber + " is even and less than 60.";
-            }
-            else if (userNumber % 2 == 0 && userNumber > 60)
+            else if (userNumber % 2 == 0 && userNumber >= 26)
             {
                 return userNumber + " is even.";
             }

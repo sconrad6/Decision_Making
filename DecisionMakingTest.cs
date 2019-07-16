@@ -21,7 +21,7 @@ namespace Decision_Making
                     Console.WriteLine("Invalid number. Please try again.");
                     continue;
                 }
-              
+
                 Console.WriteLine("\nGreat number, " + name + "!");
 
                 Console.WriteLine(decision1);
