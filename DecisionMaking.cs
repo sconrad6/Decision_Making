@@ -19,6 +19,7 @@ namespace Decision_Making
             this.name = name;
         }
 
+        // Method to determine which category the user's number falls under
         public string WhatIsTheNumber()
         {
             if ((userNumber % 2 != 0) || (userNumber % 2 != 0 && userNumber > 60))
@@ -39,6 +40,7 @@ namespace Decision_Making
             }
         }
 
+        // Checks to make sure the user's number is between 1 and 100
         public static bool IsValid(int userNumber)
         {
             if (userNumber < 1 || userNumber > 100)
