@@ -9,7 +9,7 @@ namespace Decision_Making
             Console.WriteLine("Hello! What is your name?");
             string name = Console.ReadLine();
 
-            char userChoice = 'y';
+            string userChoice = "y";
             do
             {
                 Console.WriteLine("\n" + name + ", Please enter a whole number between 1 and 100");
@@ -26,9 +26,9 @@ namespace Decision_Making
                 Console.WriteLine(decision1.WhatIsTheNumber());
 
                 Console.Write("\nWould you like to enter another number, " + name + "? Please press Y for yes and N for no. ");
-                userChoice = Console.ReadKey().KeyChar;
+                userChoice = Console.ReadLine().ToLower();
 
-            } while (userChoice == 'Y' || userChoice == 'y');
+            } while (userChoice == "y");
             Console.WriteLine("\nThank you for playing, " + name + "! Have a nice day.");
         }
     }

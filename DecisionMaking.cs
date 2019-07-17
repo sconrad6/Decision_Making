@@ -19,7 +19,6 @@ namespace Decision_Making
             this.name = name;
         }
 
-
         public string WhatIsTheNumber()
         {
             if ((userNumber % 2 != 0) || (userNumber % 2 != 0 && userNumber > 60))
