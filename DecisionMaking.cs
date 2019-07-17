@@ -48,11 +48,5 @@ namespace Decision_Making
             }
             return true;
         }
-
-        public override string ToString()
-        {
-            return WhatIsTheNumber();
-            
-        }
     }
 }
